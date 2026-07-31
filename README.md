@@ -1,6 +1,6 @@
 Medtronic Medical Products Search Prototype
 
-> **Demo en vivo:** [https://zkey17.github.io/prototipomed/](https://zkey17.github.io/prototipomed/)
+> **Demo en vivo:** <a href="https://zkey17.github.io/prototipomed/" target="_blank" rel="noopener noreferrer">https://zkey17.github.io/prototipomed/</a>
 
 ---
 
